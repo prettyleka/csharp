@@ -1,7 +1,8 @@
 repo_name: prettyleka/csharp
 report_id: 59391b3a46e2b390c00ce7fefb51c89c
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-11T05:35:16+00:00'
+timestamp: '2024-01-05T08:51:57+00:00'
 requested_by: ErikSchierboom
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/prettyleka/csharp
   detection_source: Repo Metadata
 - name: Liquid
   description: Open-source template language written in Ruby
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1746/no-img-open-source.png
+  detection_source_url: https://github.com/prettyleka/csharp
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/generators/Generators.csproj
   detection_source: generators/Generators.csproj
   last_updated_by: Erik Schierboom
   last_updated_on: 2017-03-10 18:08:25.000000000 Z
@@ -51,8 +55,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: exercises/accumulate/Accumulate.csproj
-  detection_source: generators/Generators.csproj
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/exercises/accumulate/Accumulate.csproj
+  detection_source: exercises/accumulate/Accumulate.csproj
   last_updated_by: dependabot-preview[bot]
   last_updated_on: 2019-11-07 05:25:36.000000000 Z
 - name: ASP.NET Core
@@ -66,8 +70,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: exercises/accumulate/Accumulate.csproj
-  detection_source: generators/Generators.csproj
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/exercises/accumulate/Accumulate.csproj
+  detection_source: exercises/accumulate/Accumulate.csproj
   last_updated_by: dependabot-preview[bot]
   last_updated_on: 2019-11-07 05:25:36.000000000 Z
 - name: Git
@@ -78,6 +82,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/prettyleka/csharp
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -87,6 +92,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/.github/workflows/test.yml
   detection_source: ".github/workflows/test.yml"
   last_updated_by: Erik Schierboom
   last_updated_on: 2019-12-05 19:36:30.000000000 Z
@@ -98,6 +104,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/generators/Generators.csproj
   detection_source: generators/Generators.csproj
   last_updated_by: Erik Schierboom
   last_updated_on: 2017-03-10 18:08:25.000000000 Z
@@ -110,6 +117,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/exercises/Exercises.sln
   detection_source: exercises/Exercises.sln
   last_updated_by: Erik Schierboom
   last_updated_on: 2018-12-16 15:51:23.000000000 Z
@@ -122,8 +130,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
-  detection_source_url: exercises/accumulate/Accumulate.csproj
-  detection_source: exercises/zipper/Zipper.csproj
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/exercises/accumulate/Accumulate.csproj
+  detection_source: exercises/accumulate/Accumulate.csproj
   last_updated_by: Erik Schierboom
   last_updated_on: 2017-02-13 08:23:45.000000000 Z
 - name: PowerShell
@@ -134,6 +142,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/prettyleka/csharp
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -144,6 +153,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/prettyleka/csharp
   detection_source: Repo Metadata
 - name: CommandLineParser
   description: Terse syntax C# command line parser for .NET
@@ -155,7 +165,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13122/default_a5e8cd728170fc92850284a53a17ff7deb73f318.png
-  detection_source_url: generators/Generators.csproj
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/generators/Generators.csproj
   detection_source: generators/Generators.csproj
   last_updated_by: dependabot-preview[bot]
   last_updated_on: 2020-01-01 19:52:17.000000000 Z
@@ -169,7 +179,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13558/default_1a07a0db93c46d1d55ade89a05ea4821466fe3fa.png
-  detection_source_url: generators/Generators.csproj
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/generators/Generators.csproj
   detection_source: generators/Generators.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2019-05-06 06:34:46.000000000 Z
@@ -184,7 +194,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13471/default_eb78542773998d1500f13778aa04738ef49376bd.png
-  detection_source_url: exercises/react/React.csproj
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/exercises/react/React.csproj
   detection_source: exercises/react/React.csproj
   last_updated_by: dependabot-preview[bot]
   last_updated_on: 2019-11-26 05:24:03.000000000 Z
@@ -198,7 +208,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14947/default_acfa5bb9d9399ceb54a1b978e62e07828bf710ec.png
-  detection_source_url: exercises/diamond/Diamond.csproj
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/exercises/diamond/Diamond.csproj
   detection_source: exercises/diamond/Diamond.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2019-04-18 06:40:07.000000000 Z
@@ -213,7 +223,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13308/default_a905ee276a536c55784ed56585a51a44d19b6d5b.png
-  detection_source_url: generators/Generators.csproj
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/generators/Generators.csproj
   detection_source: generators/Generators.csproj
   last_updated_by: dependabot-preview[bot]
   last_updated_on: 2019-09-27 18:57:04.000000000 Z
@@ -227,13 +237,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: generators/Generators.csproj
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/generators/Generators.csproj
   detection_source: generators/Generators.csproj
   last_updated_by: dependabot-preview[bot]
   last_updated_on: 2019-11-11 06:46:50.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
@@ -248,8 +264,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13233/default_cadeaa4a9968284dcd1223273394c410c31c9d09.png
-  detection_source_url: exercises/alphametics/Alphametics.csproj
-  detection_source: exercises/sgf-parsing/SgfParsing.csproj
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/exercises/alphametics/Alphametics.csproj
+  detection_source: exercises/alphametics/Alphametics.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2019-02-27 18:52:14.000000000 Z
 - name: xunit.runner.visualstudio
@@ -262,7 +278,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
-  detection_source_url: exercises/accumulate/Accumulate.csproj
-  detection_source: exercises/zipper/Zipper.csproj
+  detection_source_url: https://github.com/prettyleka/csharp/blob/master/exercises/accumulate/Accumulate.csproj
+  detection_source: exercises/accumulate/Accumulate.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2019-02-27 08:34:12.000000000 Z
